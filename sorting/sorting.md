@@ -1,0 +1,15 @@
+# Sorting
+- 2차 정렬
+  - Bubble Sort (거품 정렬)
+  - Selection Sort (선택 정렬)
+  - Insertion Sort (삽입 정렬)
+  - Gnome Sort (놈 정)
+- 선형 정렬
+  - Count Sort (카운트 정렬)
+- 로그 선형 정렬
+  - Merge Sort (병합 정렬)
+  - Quick Sort (퀵 정렬)
+  - Heap Sort (힙 정)
+- 시간복잡도 비교
+- 연습 문제
+  - 가장 큰 항목 k개 찾기
